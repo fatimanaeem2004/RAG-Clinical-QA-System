@@ -1,0 +1,24 @@
+CLINICAL GUIDELINES FOR CARDIOVASCULAR DISEASE AND HYPERTENSION
+
+SECTION 2: PHARMACOLOGICAL MANAGEMENT OF HYPERTENSION
+
+Pharmacotherapy is indicated for Stage 1 Hypertension with high ASCVD risk (>=10%) and all patients with Stage 2 Hypertension. Selecting the appropriate initial drug class depends on patient comorbidities.
+
+2.1 FIRST-LINE ANTIHYPERTENSIVE DRUG CLASSES
+Four major drug classes are established as first-line agents:
+- Thiazide Diuretics: E.g., Chlorthalidone (preferred due to long half-life and proven trial data) and Hydrochlorothiazide. Mechanism: Inhibit sodium reabsorption in the distal convoluted tubule. Adverse effects: Hypokalemia, hyponatremia, hyperuricemia (may precipitate gout), and hyperglycemia.
+- Angiotensin-Converting Enzyme (ACE) Inhibitors: E.g., Lisinopril, Enalapril, Ramipril. Mechanism: Block conversion of angiotensin I to angiotensin II, reducing vasoconstriction and aldosterone secretion. Highly recommended in patients with diabetes, chronic kidney disease (CKD) with proteinuria, or heart failure. Contraindications: Pregnancy, history of angioedema, and bilateral renal artery stenosis. Side effect: Dry cough (due to bradykinin accumulation).
+- Angiotensin II Receptor Blockers (ARBs): E.g., Losartan, Valsartan, Candesartan. Mechanism: Block AT1 receptors. Indicated for patients who require ACE inhibition but develop a dry cough. Similar contraindications to ACE inhibitors; must never be combined with ACE inhibitors.
+- Calcium Channel Blockers (CCBs): Divided into:
+  * Dihydropyridines (e.g., Amlodipine, Nifedipine): Predominantly peripheral vasodilators. Highly effective in elderly patients. Side effect: Dose-dependent peripheral edema.
+  * Non-Dihydropyridines (e.g., Diltiazem, Verapamil): Negative inotropes and chronotropes. Commonly used for rate control in atrial fibrillation. Contraindicated in patients with reduced ejection fraction heart failure (HFrEF) due to risk of worsening cardiac output.
+
+2.2 COMORBIDITY-SPECIFIC DRUG SELECTION GUIDELINES
+- Chronic Kidney Disease (CKD): ACE inhibitors or ARBs are mandatory first-line therapies for patients with Stage 3 CKD or albuminuria (urine albumin-to-creatinine ratio >= 300 mg/g). They exert renal protective effects by dilating the efferent arteriole, thereby reducing intraglomerular pressure. Monitor creatinine and potassium levels within 1–2 weeks of initiation.
+- Diabetes Mellitus: ACE inhibitors or ARBs are first-line choices due to their protection against diabetic nephropathy.
+- Heart Failure with Reduced Ejection Fraction (HFrEF): Guideline-directed medical therapy (GDMT) includes Beta-blockers (specifically Metoprolol Succinate, Carvedilol, or Bisoprolol), ACE inhibitors/ARBs/ARNIs (Sacubitril/Valsartan), Aldosterone Antagonists (Spironolactone), and SGLT2 inhibitors. Note: Beta-blockers are not first-line agents for hypertension unless there is an indication like HFrEF or ischemic heart disease.
+
+2.3 COMBINATION THERAPY STRATEGY
+In patients with Stage 2 Hypertension or blood pressure >20/10 mmHg above target, initiate therapy with two first-line agents from different classes.
+- Recommended Combinations: ACE inhibitor/ARB paired with a Calcium Channel Blocker, or ACE inhibitor/ARB paired with a Thiazide Diuretic.
+- Forbidden Combination: Dual renin-angiotensin-aldosterone system (RAAS) blockade (e.g., combining an ACE inhibitor and an ARB) is strictly contraindicated due to increased risk of hyperkalemia, acute kidney injury, and hypotension.

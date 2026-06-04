@@ -1,0 +1,11 @@
+torch --index-url https://download.pytorch.org/whl/cpu
+transformers>=4.45.0
+huggingface-hub
+rank_bm25
+pandas
+numpy
+streamlit
+python-docx
+matplotlib
+jinja2
+tqdm
